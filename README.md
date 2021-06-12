@@ -17,3 +17,5 @@ e.	Metode encode pada suatu direktori juga berlaku terhadap direktori yang ada d
 Di soal nomor 1 cara penyelesaiannya adalah meng-encrypt seluruh file yang ada di dalam folder berawalan (AtoZ_) dan seharusnya masih bisa di aksses.
 
 tetapi kenadalanya adalah, sudah berhasli flip semua (bukan yang AtoZ_saja) tetapi tidak bisa di akses, hanya menampilkan folder yang sudah ter encrypt saja;
+
+![kendala](/kendala.png?raw=true)
